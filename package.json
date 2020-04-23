@@ -4,6 +4,7 @@
   "description": "Devistry theme",
   "publisher": "devistry",
   "version": "1.0.0",
+  "repository": "https://github.com/jgbijlsma/devistry-theme",
   "engines": {
     "vscode": "^1.44.0"
   },
