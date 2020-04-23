@@ -3,9 +3,9 @@
   "displayName": "Devistry color theme",
   "description": "Devistry theme",
   "publisher": "devistry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "https://github.com/jgbijlsma/devistry-theme",
-  "icon": "https://github.com/jgbijlsma/devistry-theme/blob/master/Logo.png",
+  "icon": "images/logo128px.png",
   "engines": {
     "vscode": "^1.44.0"
   },
