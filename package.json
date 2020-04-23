@@ -5,6 +5,7 @@
   "publisher": "devistry",
   "version": "1.0.0",
   "repository": "https://github.com/jgbijlsma/devistry-theme",
+  "icon": "https://github.com/jgbijlsma/devistry-theme/blob/master/Logo.png",
   "engines": {
     "vscode": "^1.44.0"
   },
