@@ -354,6 +354,13 @@
       }
     },
     {
+      "name": "Template string expression",
+      "scope": "meta.template.expression",
+      "settings": {
+        "foreground": "#F8F8F2"
+      }
+    },
+    {
       "name": "Comment",
       "scope": "comment",
       "settings": {
